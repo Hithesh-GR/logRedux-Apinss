@@ -1,0 +1,66 @@
+.container {
+    display: flex;
+    font-weight: bolder;
+    height: 100vh;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+}
+
+.containerCard {
+    display: flex;
+    font-weight: bolder;
+    height: 500px;
+    width: 400px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#fontt {
+    font-weight: normal;
+    margin-top: 0%;
+    text-align: center
+}
+
+#font-L {
+    color: goldenrod;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px
+}
+
+#font-A {
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px
+}
+
+#font-p {
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px
+}
+
+#font-i {
+    color: green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px
+}
+
+#font-n {
+    color: blueviolet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px
+}
+
+#font-s {
+    color: yellowgreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px
+}
+
+#font-s {
+    color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px
+}
